@@ -10,7 +10,7 @@ A **simple Instagram clone** built using **React.js** and **JSON Server**, featu
 - 🔄 **Profile Update**  
 
 ## 🛠 Tech Stack
-- **Frontend:** React.js, Tailwind CSS  
+- **Frontend:** React.js, CSS , Bootstrap framework , HTML   
 - **Backend:** JSON Server (Mock Backend)  
 - **State Management:** useState, useEffect  
 - **Other Tools:** Axios, React Router  
