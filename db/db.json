@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "Rackesh_Kumaran",
+        "profile_pic": "src/assets/profile-pic.jpg"
+      },
+      "image": "src/assets/sunset-pic.jpg",
+      "caption": "Beautiful sunset🌅 #nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "WOW! Amazing shot1 "
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place "
+        }
+      ],
+      "timestamp": "2025-03-17T!4:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "sarah_lee",
+        "profile_pic": "src/assets/profile-pic2.jpg"
+      },
+      "image": "src/assets/coffee-pic.jpg",
+      "caption": "Coffee first ☕ #MondayMotivation",
+      "likes": 230,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "I need this coffe right now!"
+        }
+      ],
+      "timestamp": "2025-02-17T!14:30:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "travel_with_anna",
+        "profile_pic": "src/assets/profile-pic3.jpg"
+      },
+      "image": "src/assets/travel-pic.jpg",
+      "caption": "Exploring the mountains 🏔️✨!",
+      "likes": 450,
+      "comments": [
+        {
+          "user": "mark_92",
+          "comment": "This looks like heaven!"
+        },
+        {
+          "user": "sarah_lee",
+          "comment": "Amazing view!"
+        }
+      ],
+      "timestamp": "2025-02-11T!18:35:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "Rackesh Kumaran ",
+    "profile_pic": "src/assets/profile-pic.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "Rackesh_Kumaran",
+      "profile_pic": "src/assets/profile-pic.jpg"
+    },
+    {
+      "id": "102",
+      "username": "sarah_lee",
+      "profile_pic": "src/assets/profile-pic2.jpg"
+    },
+    {
+      "id": "103",
+      "username": "travel_with_anna",
+      "profile_pic": "src/assets/profile-pic3.jpg"
+    },
+    {
+      "id": "103",
+      "username": "anuShree",
+      "profile_pic": "src/assets/profile-pic3.jpg"
+    },
+    {
+      "id": "103",
+      "username": "Rabi",
+      "profile_pic": "src/assets/profile-pic3.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "Rackesh_Kumaran",
+        "profile_pic": "src/assets/profile-pic.jpg"
+      },
+      "image": "/src/assets/s1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "sarah_lee",
+        "profile_pic": "src/assets/profile-pic2.jpg"
+      },
+      "image": "/src/assets/s2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "travel_with_anna",
+        "profile_pic": "src/assets/profile-pic3.jpg"
+      },
+      "image": "/src/assets/s3.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "101",
+      "username": "Rackesh_Kumaran"
+    },
+    {
+      "id": "102",
+      "username": "sarah_lee"
+    },
+    {
+      "id": "103",
+      "username": "anuShree"
+    }
+  ]
+}
