@@ -1,12 +1,23 @@
-# React + Vite
+# 📸 Instagram Clone (React + JSON Server)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **simple Instagram clone** built using **React.js** and **JSON Server**, featuring functionalities like **user follow/unfollow, profile updates, stories, posting pictures, liking, and commenting**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🧑‍🤝‍🧑 **Follow & Unfollow Users**  
+- 🖼 **Upload & View Stories**  
+- 📸 **Post Pictures**  
+- ❤️ **Like & Comment on Posts**  
+- 🔄 **Profile Update**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** JSON Server (Mock Backend)  
+- **State Management:** useState, useEffect  
+- **Other Tools:** Axios, React Router  
 
-## Expanding the ESLint configuration
+## 📸 ScreenRecorder
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+https://github.com/user-attachments/assets/de341cf6-4c42-4b98-b512-ef7ebec439c0
+
